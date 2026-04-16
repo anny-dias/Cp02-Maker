@@ -48,14 +48,29 @@ As medições abaixo foram realizadas com paquímetro para compreender melhor o 
 
 | Peça | Medida | Valor | Observação |
 |------|--------|-------|------------|
-| Tampa | Espessura | XX mm | Medida da espessura total |
-| Caixa | Diâmetro dos furos | XX mm | Furo de encaixe do eixo |
-| Eixo | Comprimento | XX mm | Comprimento total |
-| Eixo | Diâmetro | XX mm | Medida do corpo do eixo |
-| Engrenagem | Largura | XX mm | Espessura/largura da engrenagem |
-| Caixa | Distância entre centros dos eixos| 1,6 mm | Medida entre os eixos rosas |
-| Caixa | Distância entre centros dos eixos| 2,1 mm | Medida entre o eixo central branco e o rosa ligado a ele |
-| Caixa | Profundidade do alojamento interno | XX mm | Profundidade interna útil |
+| Tampa | Espessura | 3 mm | Medida da espessura total |
+| Tampa | Furo de encaixe do eixo | 8 mm | Medida do furo |
+| Tampa | Comprimento | 100 mm | Medida do comprimento |
+| Base | Comprimento | 100 mm | Medida do comprimento |
+| Base | Encaixe  | 4 mm | Medida da expessura do encaixe |
+| Base | Espessura | 3 mm | Medida da espessura da base |
+| Base | Distancia de encaixe | 21 mm e 16 mm | Medida da distancia do pontos de encaixe |
+| Eixo | Altura | 35 mm | Altura total |
+| Eixo | Diâmetro | 34 mm | Medida do corpo do eixo |
+| Eixo | Espessura | 5 mm | Medida da espessura do eixo |
+| Engrenagem | Espessura | 5 mm | Espessura da engrenagem |
+| Engrenagem | Comprimento | 23 mm | Comprimento da engrenagem |
+| Engrenagem com encaixe| Espessura | 5 mm | Espessura da engrenagem |
+| Engrenagem com encaixe | Comprimento | 23 mm | Comprimento da engrenagem |
+| Engrenagem com encaixe | Comprimento do encaixe| 6 mm | Comprimento do encaixe da engrenagem |
+| Engrenagem com encaixe | Altura do encaixe| 7 mm | Altura do encaixe da engrenagem |
+| Estrela | Espessura | 7 mm | Espessura da estrela |
+| Estrela | Comprimento | 37 mm | Comprimento da estrela |
+| Estrela | Altura | 11 mm | Altura total da estrela |
+| Caixa | Espessura | 22 mm | Espessura da caixa |
+| Caixa | Altura | 41 mm | Altura da caixa |
+| Caixa | Comprimento | 44 mm | Comprimento da caixa |
+| Caixa | Espessura do encaixe | 1 mm | Espessura do encaixe da caixa |
 
 ### Observações sobre as medições
 - As peças apresentam pequenas variações dimensionais.
@@ -161,3 +176,27 @@ ou
 - Diâmetro (se aplicável): XX mm
 
 ---
+
+## 8. Envidências em cm
+
+![Passo 8](./images/Image1.png)
+![Passo 9](./images/Image2.png)
+![Passo 10](./images/Image3.png)
+![Passo 8](./images/Image4.png)
+![Passo 9](./images/Image5.png)
+![Passo 10](./images/Image6.png)
+![Passo 8](./images/Image7.png)
+![Passo 9](./images/Image8.png)
+![Passo 10](./images/Image(8).png)
+![Passo 8](./images/Image(9).png)
+![Passo 9](./images/Image10.jpg)
+![Passo 10](./images/Image(11).jpg)
+![Passo 8](./images/Image(12).jpg)
+![Passo 9](./images/Image(23).jpg)
+![Passo 10](./images/Image(14).jpg)
+![Passo 10](./images/Image(15).jpg)
+![Passo 10](./images/Image(16).jpg)
+![Passo 10](./images/Image(17).jpg)
+![Passo 10](./images/Image(18).jpg)
+![Passo 10](./images/Image(19).jpg)
+![Passo 10](./images/Image(101).jpg)
