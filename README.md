@@ -113,7 +113,15 @@ Após a montagem interna, a tampa foi colocada para fechamento da caixa.
 ### Passo 7 – Teste de funcionamento
 Foi realizado um teste para verificar o giro dos eixos, o acoplamento das engrenagens e possíveis travamentos.
 
-![Passo 7](./images/passo07.jpg)
+![Passo 7](./images/Image(1).jpg)
+
+![Passo 7.1](./images/Image(2).jpg)
+
+![Passo 7](./images/Image(3).jpg)
+
+![Passo 7](./images/Image(4).jpg)
+
+
 
 ---
 
